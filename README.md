@@ -1,2 +1,2 @@
-# Connect4
+# SUNGKA
 Machine Problem for A.I.
